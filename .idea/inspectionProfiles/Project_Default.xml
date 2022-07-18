@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="9">
+            <item index="0" class="java.lang.String" itemvalue="backoffice" />
+            <item index="1" class="java.lang.String" itemvalue="pp-common" />
+            <item index="2" class="java.lang.String" itemvalue="sqlalchemy-utils" />
+            <item index="3" class="java.lang.String" itemvalue="isodate" />
+            <item index="4" class="java.lang.String" itemvalue="fastapi-limiter" />
+            <item index="5" class="java.lang.String" itemvalue="sentry_sdk" />
+            <item index="6" class="java.lang.String" itemvalue="whitelabel-log" />
+            <item index="7" class="java.lang.String" itemvalue="aioredlock" />
+            <item index="8" class="java.lang.String" itemvalue="sqlalchemy" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
